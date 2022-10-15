@@ -1,0 +1,4 @@
+next:
+write the component for after the review has been submitted, and add some javascript to record the number and display it on the next page.
+also, 
+we need to write some media queries for making this website mobile compatible, so do that as well.
